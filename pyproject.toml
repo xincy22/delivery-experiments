@@ -1,0 +1,15 @@
+[build-system]
+requires = [
+  "setuptools>=69",
+  "wheel",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dispatch-matching"
+version = "0.1.0"
+description = "Dispatch matching experiments with pure Python solvers and benchmark tooling."
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+include = ["core*", "solvers*"]
