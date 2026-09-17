@@ -60,7 +60,7 @@ workers = 3
 
 穷举只用于很小的测试，不参与正式求解。正式结果的审计不导入任何求解代码。
 
-开发服务器的 GCC 4.8.5 不支持完整 ASan/UBSan 配置，并缺少 ASan 运行库，因此该服务器的 sanitizer 尝试没有完成；不能列为通过项。CI 中配置了现代编译环境的 sanitizer 步骤，其执行结果应单独查看，而不是从配置文件推断通过。
+开发服务器的 GCC 4.8.5 不支持完整 ASan/UBSan 配置，并缺少 ASan 运行库，因此该服务器的 sanitizer 尝试没有完成；不能列为通过项。随后已核对 GitHub Actions 的实际执行结果：提交 `7d970d0` 的 [运行 35214991639](https://github.com/xincy22/delivery-experiments/actions/runs/35214991639) 中，`make test` 与 `make sanitize` 均已成功完成，包括 AddressSanitizer / UndefinedBehaviorSanitizer 检查。这里记录的是实际运行结果，而不仅是工作流配置；摘要保存于 `results/release-20260917/ci.json`。
 
 ## 5. 如何复测
 
