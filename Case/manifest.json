@@ -1,0 +1,38 @@
+{
+  "case1.tsv": {
+    "sha256": "7d5f9870991aa07ae1bc26236409f0b19a0ac3e2adfdc5318675ac481ed5aeb8",
+    "bytes": 142538346
+  },
+  "case2.tsv": {
+    "sha256": "540508c00bf830d28e0964775b27ca7eb6f06ff66ed80e0aeb825c3c58de369c",
+    "bytes": 112547847
+  },
+  "case3.tsv": {
+    "sha256": "9a2fb9fc6cd33983b2a30c0e599a65fb99301bebdc69eadd9a642316fcc7e041",
+    "bytes": 82179704
+  },
+  "case4.tsv": {
+    "sha256": "36f6c98884069f94574529aa147c81606c3a8a89d7c7ab932489de8e7b57b48b",
+    "bytes": 65740012
+  },
+  "case5.tsv": {
+    "sha256": "edda349a5dbea3d926026d044bcbfa453ea09e1d7f6fdc50063a07389fc5b9fc",
+    "bytes": 304030967
+  },
+  "case6.tsv": {
+    "sha256": "0a4e6e41cc915e2c5275429fd9d35b246c280d5a0f9dfadb65e3a89f5be8201f",
+    "bytes": 300039518
+  },
+  "case7.tsv": {
+    "sha256": "0df8af3edb693041a557d30325d97a22d67def743576092f9d352694ce3c6a17",
+    "bytes": 110183009
+  },
+  "case8.tsv": {
+    "sha256": "fdd8bc39abc63edc8bfdb6173eed417a871e3e77d6b38ecfcae425b36f420438",
+    "bytes": 209133834
+  },
+  "case9.tsv": {
+    "sha256": "45152448feb076cfc758dfcb2108ca0d6bb4cff93c7ee4e12faa5540f3f86750",
+    "bytes": 161293385
+  }
+}

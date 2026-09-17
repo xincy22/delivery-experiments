@@ -1,0 +1,15 @@
+{
+  "case": "case6.tsv",
+  "passed": true,
+  "raw_rows_checked": 8364781,
+  "orders": 291,
+  "riders": 1102,
+  "selected_rows": 206,
+  "total_cost": 519.3340433295718,
+  "full_lower_bound": 513.5672557292772,
+  "min_dual_slack": 9.999999717180685e-10,
+  "global_gap_bound_pct": 1.1228884894745939,
+  "sha256": "0a4e6e41cc915e2c5275429fd9d35b246c280d5a0f9dfadb65e3a89f5be8201f",
+  "manifest_matched": true,
+  "audit_sec": 51.42535655386746
+}

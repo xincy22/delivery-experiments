@@ -1,0 +1,22 @@
+{
+  "case": "case1",
+  "returncode": 0,
+  "process_wall_sec": 180.2076383214444,
+  "solver": "native_lns",
+  "seed": 7,
+  "total_cost": 5220.452479508326,
+  "lower_bound": 5208.008170049934,
+  "runtime_sec": 180.103915229,
+  "selected_rows": 883,
+  "feasible": true,
+  "iterations": 3092,
+  "nodes": 1214030,
+  "reference_cost": 5213.8791,
+  "gap_pct": 0.12607464389280398,
+  "experiment": "round2",
+  "source_sha256": "108c06f03298e6996cc0923355575117d8b12de14c8c460876d4ca0cedfdde89",
+  "certificate_experiment": "focused",
+  "formal_runs_for_case": 4,
+  "total_search_budget_sec": 780.0,
+  "provenance": "Historical metrics reconstructed from the archived best-run summary and independently audited dual certificate; not a fresh release run."
+}

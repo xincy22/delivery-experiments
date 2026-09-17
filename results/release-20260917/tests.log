@@ -1,0 +1,18 @@
+test_all_modes (test_solver.NativeSolverTests.test_all_modes) ... ok
+test_benchmark_entry (test_solver.NativeSolverTests.test_benchmark_entry) ... ok
+test_bundling_required (test_solver.NativeSolverTests.test_bundling_required) ... ok
+test_duplicate_candidates_and_unsorted_orders (test_solver.NativeSolverTests.test_duplicate_candidates_and_unsorted_orders) ... ok
+test_infeasible_is_not_published (test_solver.NativeSolverTests.test_infeasible_is_not_published) ... ok
+test_invalid_inputs_and_cli (test_solver.NativeSolverTests.test_invalid_inputs_and_cli) ... ok
+test_negative_costs (test_solver.NativeSolverTests.test_negative_costs) ... ok
+test_no_singleton_candidates (test_solver.NativeSolverTests.test_no_singleton_candidates) ... ok
+test_no_stale_output_reuse_and_corrupted_audit (test_solver.NativeSolverTests.test_no_stale_output_reuse_and_corrupted_audit) ... ok
+test_random_small_against_exhaustive (test_solver.NativeSolverTests.test_random_small_against_exhaustive) ... ok
+test_rider_augmenting_chain (test_solver.NativeSolverTests.test_rider_augmenting_chain) ... ok
+test_toy (test_solver.NativeSolverTests.test_toy) ... ok
+test_zero_costs (test_solver.NativeSolverTests.test_zero_costs) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 9.702s
+
+OK

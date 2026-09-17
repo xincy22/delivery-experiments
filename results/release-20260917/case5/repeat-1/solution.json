@@ -1,0 +1,1 @@
+{"solver":"native_lns","seed":1,"total_cost":1157.0484107810234,"lower_bound":1143.3800875614268,"runtime_sec":120.052074253,"selected_rows":324,"feasible":true,"mode":"descent","first_feasible_sec":12.940076385999999,"best_found_sec":32.925988330000003,"iterations":1035,"nodes":342912}

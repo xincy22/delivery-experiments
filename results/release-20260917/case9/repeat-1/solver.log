@@ -1,0 +1,34 @@
+DATA rows=4605738 orders=209 riders=604 bundles=153534 load_sec=4.02895
+DUAL lower=506.42221881413 sec=7.383921294
+INITIAL cost=686.0305490502 artificial=0 sec=7.386187553
+BEST it=1 cost=669.23300460575 artificial=0 nodes=170 sec=7.424067023
+BEST it=2 cost=617.95470460575 artificial=0 nodes=4171 sec=7.945359825
+BEST it=3 cost=598.93872180429 artificial=0 nodes=4185 sec=7.96277166
+BEST it=4 cost=585.29136657601 artificial=0 nodes=4200 sec=7.98171242
+BEST it=5 cost=583.40771102045 artificial=0 nodes=4207 sec=7.984674381
+BEST it=6 cost=577.86163153925 artificial=0 nodes=4528 sec=8.027312309
+BEST it=7 cost=565.77626487258 artificial=0 nodes=4541 sec=8.030732206
+BEST it=8 cost=552.83022042814 artificial=0 nodes=4569 sec=8.072240048
+BEST it=10 cost=550.52114265036 artificial=0 nodes=8582 sec=8.873669964
+BEST it=11 cost=547.81650067307 artificial=0 nodes=8589 sec=8.875077866
+BEST it=12 cost=544.98948956196 artificial=0 nodes=8624 sec=8.876489878
+BEST it=14 cost=541.30346733974 artificial=0 nodes=12626 sec=9.277985489
+BEST it=15 cost=536.35768956196 artificial=0 nodes=12653 sec=9.29466686
+BEST it=16 cost=532.23873459209 artificial=0 nodes=12721 sec=9.302109066
+BEST it=18 cost=532.08835681432 artificial=0 nodes=16759 sec=9.79324772
+BEST it=19 cost=531.32742171384 artificial=0 nodes=16768 sec=9.802874868
+BEST it=20 cost=529.5594585854 artificial=0 nodes=16778 sec=9.814110276
+BEST it=22 cost=527.19680302984 artificial=0 nodes=17214 sec=9.936953529
+BEST it=23 cost=522.75866177551 artificial=0 nodes=17218 sec=9.93771001
+BEST it=26 cost=522.42246135958 artificial=0 nodes=29221 sec=12.420635856
+BEST it=28 cost=519.2595835818 artificial=0 nodes=29391 sec=12.486385404
+BEST it=30 cost=518.00687247069 artificial=0 nodes=33587 sec=13.364878197
+BEST it=31 cost=517.61226135958 artificial=0 nodes=33672 sec=13.43711423
+BEST it=34 cost=516.78549706962 artificial=0 nodes=33719 sec=13.467613076
+BEST it=46 cost=516.48734151407 artificial=0 nodes=38973 sec=14.135922491
+BEST it=47 cost=516.33679706962 artificial=0 nodes=39208 sec=14.63530357
+BEST it=52 cost=514.84399706962 artificial=0 nodes=40854 sec=16.056040202
+BEST it=72 cost=514.09800262518 artificial=0 nodes=53683 sec=18.793559849
+BEST it=241 cost=513.4898248474 artificial=0 nodes=153013 sec=44.004910324
+PROGRESS it=500 cost=513.4898248474 best=513.4898248474 sec=84.767549546
+DONE cost=513.48982484740168 artificial=0 iterations=708 nodes=432319 sec=120.075614238

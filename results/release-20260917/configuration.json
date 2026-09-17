@@ -1,0 +1,27 @@
+{
+  "case_dir": "Case",
+  "cases": [
+    "case1.tsv",
+    "case2.tsv",
+    "case3.tsv",
+    "case4.tsv",
+    "case5.tsv",
+    "case6.tsv",
+    "case7.tsv",
+    "case8.tsv",
+    "case9.tsv"
+  ],
+  "output_dir": "results/release-20260917",
+  "time_limit_sec": 120.0,
+  "seed": 1,
+  "repeats": 1,
+  "workers": 3,
+  "mode": "descent",
+  "pricing_rounds": 200,
+  "verify": true,
+  "source_sha256": "787ed37130547575975ff29ebed46d525a61b369cc97215b5a9237beccba80f9",
+  "binary_sha256": "09b6c8b3fb8f056fdd0ef1a30c5ddb62f5ef6a717db6bc1501c96caab1549e06",
+  "compiler": "g++ (GCC) 4.8.5 20150623 (Red Hat 4.8.5-44)",
+  "platform": "Linux-3.10.0-1160.119.1.el7.x86_64-x86_64-with-glibc2.17",
+  "timing": "Per-run solver includes parsing and search, excludes build and audit; soft deadline."
+}
